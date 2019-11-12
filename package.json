@@ -17,5 +17,9 @@
     "name": "Tom McCaffery",
     "email": "tom@weareadjacent.com"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "pngjs": "^3.4.0",
+    "postcss": "^7.0.21"
+  }
 }
