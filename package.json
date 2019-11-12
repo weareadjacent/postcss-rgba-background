@@ -1,0 +1,21 @@
+{
+  "name": "postcss-rgba-background",
+  "version": "1.0.0",
+  "description": "PostCSS plugin that makes semitransparent backgrounds compatible with older browsers",
+  "keywords": [
+    "postcss",
+    "postcss-plugin",
+    "css",
+    "rgba",
+    "png"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Tom McCaffery",
+    "email": "tom@weareadjacent.com"
+  },
+  "license": "MIT"
+}
